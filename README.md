@@ -129,14 +129,14 @@ Me chamo Kauã Torres, tenho 18 anos e sou de maceió/AL. Atualmente, estou curs
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kauatorresfranca&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=kauatorresfranca&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauatorresfranca&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauatorresfranca&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
