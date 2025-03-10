@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Kauã Torres
 
-`**Desenvolvedor FullStack**`
+**`Desenvolvedor FullStack`**
 
 
 Me chamo Kauã Torres, tenho 18 anos e sou de maceió/AL. Atualmente, estou cursando Ciência Da Computação na Unima, Sou apaixonado por tecnologia e pelo mundo digital, Minha experiência, apesar de recente, já me permitiu trabalhar em projetos que envolvem tanto o front-end quanto o back-end.
