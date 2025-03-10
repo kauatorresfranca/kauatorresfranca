@@ -50,6 +50,15 @@ Me chamo Kauã Torres, tenho 18 anos e sou de maceió/AL. Atualmente, estou curs
 />
 <img 
     align="left" 
+    alt="redux"
+    title="redux" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" 
+/>
+          
+<img 
+    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -88,6 +97,26 @@ Me chamo Kauã Torres, tenho 18 anos e sou de maceió/AL. Atualmente, estou curs
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<img
+    align="left" 
+    alt="postgres" 
+    title="postgres"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="django" 
+    title="django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+/>
+          
+          
 
 <br/>
 <br/>
