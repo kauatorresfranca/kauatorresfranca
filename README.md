@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Kauã Torres
+# 🧑‍💻 Kauã Torres
 
 **`Desenvolvedor FullStack`**
 
