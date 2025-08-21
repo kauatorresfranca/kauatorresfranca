@@ -3,7 +3,8 @@
 **`Desenvolvedor FullStack`**
 
 
-Me chamo Kauã Torres, tenho 19 anos e sou de maceió/AL. Atualmente, estou cursando Ciência Da Computação na Unima, Sou apaixonado por tecnologia e pelo mundo digital, Minha experiência, apesar de recente, já me permitiu trabalhar em projetos que envolvem tanto o front-end quanto o back-end.
+Me chamo Kauã Torres, Sou Desenvolvedor Full Stack Python, estudante de Ciência da Computação (Unima) e formado pela EBAC. Tenho experiência no desenvolvimento de aplicações web completas, atuando no front-end com React, TypeScript e Styled Components, e no back-end com Python, Django e SQL.
+Sou apaixonado por tecnologia, focado em criar soluções escaláveis e interfaces responsivas, sempre buscando melhorar minhas habilidades e contribuir em projetos que gerem impacto real.
 
 ---
 
