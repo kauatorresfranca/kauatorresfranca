@@ -1,4 +1,4 @@
-**# 🧑🏻‍💻 Kauã Torres
+# 🧑🏻‍💻 Kauã Torres
 
 **`Desenvolvedor FullStack`**
 
@@ -142,4 +142,4 @@ Sou apaixonado por tecnologia, focado em criar soluções escaláveis e interfac
   />
 
 </p>
-**
+
