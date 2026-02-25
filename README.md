@@ -6,8 +6,6 @@
 Sou Desenvolvedor Full Stack Python, estudante de Ciência da Computação (Unima) e formado pela EBAC. Tenho experiência no desenvolvimento de aplicações web completas, atuando no front-end com React, TypeScript e Styled Components, e no back-end com Python, Django e SQL.
 Sou apaixonado por tecnologia, focado em criar soluções escaláveis e interfaces responsivas, sempre buscando melhorar minhas habilidades e contribuir em projetos que gerem impacto real.
 
----
-
 <p align="left">
 <a href="https://www.linkedin.com/in/kauatorres/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
